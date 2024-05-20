@@ -3,3 +3,6 @@ Imagine walking into Olympiatoppen, the heart of Norwegian Olympic training, and
 
 # Global Video Games Sales Tracker
 This project is a treasure hunt through video game sales data, uncovering regional preferences (Europe, North America, Japan) and genre trends (action, RPG, sports) to understand what makes games globally successful. 
+
+# Educative: Revenue Optimization
+I am tasked with analyzing course revenue data to identify areas for growth. I delve into the data to understand course performance across various topics.
